@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+authorized_faces/
+*.jpg
+*.jpeg
+*.png
+*.mp4
